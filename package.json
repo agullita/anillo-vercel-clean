@@ -1,0 +1,11 @@
+{
+  "name": "anillo-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^21.3.8"
+  }
+}
